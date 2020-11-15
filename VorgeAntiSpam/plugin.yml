@@ -1,0 +1,5 @@
+name: VorgeAntiSpam
+main: vorge\VorgeAntiSpam\Main
+author: vorge
+api: 3.0.0
+version: 1.0
